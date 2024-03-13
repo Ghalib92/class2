@@ -1,0 +1,50 @@
+
+    font-weight: bold;
+.main{
+    background-color:orange;
+    color: black;
+    padding: 100px;
+    text-align:center ;
+    font-size: 25px;
+
+            }
+            .banner{
+    background-color:brown ;
+    color: black;
+    padding: 100px;
+    text-align:center ;
+    font-size: 25px;
+    font-weight: bold;
+
+
+  }
+  ul {
+            list-style-type:none;
+            margin:0px;
+            padding:0px;
+            overflow:hidden ;
+            text-align: center;
+            color: green;
+
+        }
+  li {
+            display:inline;
+            padding: 5px;
+            text-align: center;
+           
+    }
+    ul li a{ 
+        background-color: white;
+        padding-left: 2rem;
+        color: green;
+        text-decoration: none;
+    }
+    input[type="submit"]{
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    input[type="reset"]{
+        cursor: pointer;
+    }
+input[type="submit"]:hovergreen;
+    }
